@@ -71,3 +71,23 @@ sqrt(81)
 from sqrt import math as dou
 dou(81)
 ```
+
+#### 2.5 데이터타입
+
+##### 2.5.1 스칼라 데이터 타입
+
+* int 
+```python
+>>> int(3.5)
+3
+>>> int(-3.5)
+-3
+>>> int(True)
+1
+>>> int(False)
+0
+>>> int("500")
+500
+>>> int("1000",3)
+27
+```
