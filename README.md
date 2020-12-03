@@ -91,3 +91,40 @@ dou(81)
 >>> int("1000",3)
 27
 ```
+
+* float
+```python
+>>> float(7)
+7.0
+>>> float("1.618")
+1.618
+>>> float(True)
+1.0
+>>> float(False)
+0.0
+```
+
+* None
+```python
+>>> None
+>>> 
+>>> a = None
+>>> a is None
+True
+```
+
+* bool
+```python
+>>> bool(0)
+False
+>>> bool(1)
+True
+>>> bool(2)
+True
+>>> bool(-1)
+True
+>>> bool("")
+False
+>>> bool("abcde")
+True
+```
