@@ -32,3 +32,11 @@ for i in range(10):
      print(i)
      print(i + 1)
 ```
+
+#### 2.2 주석
+
+```python
+#이건주석입니다.
+if i > 0:
+     print("OK")
+```
