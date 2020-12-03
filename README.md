@@ -128,3 +128,10 @@ False
 >>> bool("abcde")
 True
 ```
+
+
+
+
+
+
+출처:https://wikidocs.net/20368
