@@ -11,4 +11,4 @@
 * 윈도우 재부팅 후 Path 설정됨
 
 * 설치 확인
-> CMD - python입
+> CMD - python입력  
