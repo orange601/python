@@ -48,3 +48,19 @@ if i > 0:
 ```python
 print('Hello'); print('world')
 ```
+
+#### 2.4 import
+
+* 라이브러리 전체 import
+
+```python
+import math
+math.sqrt(81) #제곱근
+```
+
+* 라이브러리 함수만 import
+
+```python
+from sqrt import math
+sqrt(81)
+```
