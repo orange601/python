@@ -9,3 +9,5 @@ https://www.python.org/downloads/windows/
 Add Python 3.9 to Path 체크 후 Install Now  
 > Path를 자동으로 설정
 
+* 윈도우 재부팅 후 Path 설정됨
+
