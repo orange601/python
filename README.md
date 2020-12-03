@@ -65,7 +65,7 @@ from sqrt import math
 sqrt(81)
 ```
 
-* 함수 별칭 사용이 가능한다
+* 함수 별칭 사용이 가능하다
 
 ```python
 from sqrt import math as dou
